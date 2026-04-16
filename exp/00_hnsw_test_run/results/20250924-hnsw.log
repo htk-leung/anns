@@ -1,0 +1,864 @@
+recall_efs_k Test 1
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 16	ef_search = 10
+	Construction time	: 2610016888ms
+	Search time			: 62268413ms
+	Recall				: 0.991
+
+recall_efs_k Test 2
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 16	ef_search = 10
+	Construction time	: 4133249799ms
+	Search time			: 98466650ms
+	Recall				: 0.953
+
+recall_efs_k Test 3
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 16	ef_search = 10
+	Construction time	: 7469180297ms
+	Search time			: 162962194ms
+	Recall				: 0.789
+
+recall_efs_k Test 4
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 16	ef_search = 10
+	Construction time	: 4455407875ms
+	Search time			: 66808226ms
+	Recall				: 0.993
+
+recall_efs_k Test 5
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 16	ef_search = 10
+	Construction time	: 6641846197ms
+	Search time			: 96121057ms
+	Recall				: 0.959
+
+recall_efs_k Test 6
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 16	ef_search = 10
+	Construction time	: 11130232855ms
+	Search time			: 169524057ms
+	Recall				: 0.84
+
+recall_efs_k Test 7
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 16	ef_search = 10
+	Construction time	: 8206798901ms
+	Search time			: 62125957ms
+	Recall				: 0.994
+
+recall_efs_k Test 8
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 16	ef_search = 10
+	Construction time	: 10703178752ms
+	Search time			: 97808662ms
+	Recall				: 0.959
+
+recall_efs_k Test 9
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 16	ef_search = 10
+	Construction time	: 15706877041ms
+	Search time			: 161258298ms
+	Recall				: 0.873
+
+recall_efs_k Test 10
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 32	ef_search = 10
+	Construction time	: 2511989097ms
+	Search time			: 65155134ms
+	Recall				: 0.996
+
+recall_efs_k Test 11
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 32	ef_search = 10
+	Construction time	: 3664913615ms
+	Search time			: 99048915ms
+	Recall				: 0.98
+
+recall_efs_k Test 12
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 32	ef_search = 10
+	Construction time	: 6310247794ms
+	Search time			: 166232560ms
+	Recall				: 0.927
+
+recall_efs_k Test 13
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 32	ef_search = 10
+	Construction time	: 4736656654ms
+	Search time			: 64491908ms
+	Recall				: 0.997
+
+recall_efs_k Test 14
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 32	ef_search = 10
+	Construction time	: 7172079918ms
+	Search time			: 95564530ms
+	Recall				: 0.988
+
+recall_efs_k Test 15
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 32	ef_search = 10
+	Construction time	: 10754394561ms
+	Search time			: 158384832ms
+	Recall				: 0.96
+
+recall_efs_k Test 16
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 32	ef_search = 10
+	Construction time	: 9047770679ms
+	Search time			: 69943410ms
+	Recall				: 0.997
+
+recall_efs_k Test 17
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 32	ef_search = 10
+	Construction time	: 11361726591ms
+	Search time			: 97911444ms
+	Recall				: 0.989
+
+recall_efs_k Test 18
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 32	ef_search = 10
+	Construction time	: 16886815435ms
+	Search time			: 159485093ms
+	Recall				: 0.966
+
+recall_efs_k Test 19
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 64	ef_search = 10
+	Construction time	: 3397720237ms
+	Search time			: 63910485ms
+	Recall				: 0.998
+
+recall_efs_k Test 20
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 64	ef_search = 10
+	Construction time	: 4630948230ms
+	Search time			: 98348409ms
+	Recall				: 0.995
+
+recall_efs_k Test 21
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 64	ef_search = 10
+	Construction time	: 6832009690ms
+	Search time			: 165360193ms
+	Recall				: 0.977
+
+recall_efs_k Test 22
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 64	ef_search = 10
+	Construction time	: 4811716899ms
+	Search time			: 63235496ms
+	Recall				: 1
+
+recall_efs_k Test 23
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 64	ef_search = 10
+	Construction time	: 6800653892ms
+	Search time			: 107921374ms
+	Recall				: 0.997
+
+recall_efs_k Test 24
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 64	ef_search = 10
+	Construction time	: 9916240188ms
+	Search time			: 162629293ms
+	Recall				: 0.992
+
+recall_efs_k Test 25
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 64	ef_search = 10
+	Construction time	: 8672936109ms
+	Search time			: 63775382ms
+	Recall				: 1
+
+recall_efs_k Test 26
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 64	ef_search = 10
+	Construction time	: 11937623546ms
+	Search time			: 101248318ms
+	Recall				: 0.998
+
+recall_efs_k Test 27
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 64	ef_search = 10
+	Construction time	: 17356304949ms
+	Search time			: 171109862ms
+	Recall				: 0.992
+
+recall_efs_k Test 28
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 128	ef_search = 10
+	Construction time	: 6410199201ms
+	Search time			: 67301154ms
+	Recall				: 1
+
+recall_efs_k Test 29
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 128	ef_search = 10
+	Construction time	: 8814935587ms
+	Search time			: 99174288ms
+	Recall				: 0.998
+
+recall_efs_k Test 30
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 128	ef_search = 10
+	Construction time	: 12969064836ms
+	Search time			: 170504965ms
+	Recall				: 0.995
+
+recall_efs_k Test 31
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 128	ef_search = 10
+	Construction time	: 6464328452ms
+	Search time			: 66866875ms
+	Recall				: 1
+
+recall_efs_k Test 32
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 128	ef_search = 10
+	Construction time	: 8972700292ms
+	Search time			: 102913108ms
+	Recall				: 0.998
+
+recall_efs_k Test 33
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 128	ef_search = 10
+	Construction time	: 12685886988ms
+	Search time			: 165919666ms
+	Recall				: 0.995
+
+recall_efs_k Test 34
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 128	ef_search = 10
+	Construction time	: 9146607775ms
+	Search time			: 66989854ms
+	Recall				: 1
+
+recall_efs_k Test 35
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 128	ef_search = 10
+	Construction time	: 12508896724ms
+	Search time			: 100556866ms
+	Recall				: 0.999
+
+recall_efs_k Test 36
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 128	ef_search = 10
+	Construction time	: 18040243259ms
+	Search time			: 179384997ms
+	Recall				: 0.998
+
+recall_efs_k Test 37
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 16	ef_search = 20
+	Construction time	: 2722366306ms
+	Search time			: 74723130ms
+	Recall				: 0.9725
+
+recall_efs_k Test 38
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 16	ef_search = 20
+	Construction time	: 4356860105ms
+	Search time			: 110916456ms
+	Recall				: 0.914
+
+recall_efs_k Test 39
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 16	ef_search = 20
+	Construction time	: 7586772986ms
+	Search time			: 182551830ms
+	Recall				: 0.7915
+
+recall_efs_k Test 40
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 16	ef_search = 20
+	Construction time	: 4653634217ms
+	Search time			: 73975496ms
+	Recall				: 0.9725
+
+recall_efs_k Test 41
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 16	ef_search = 20
+	Construction time	: 6777285090ms
+	Search time			: 108478652ms
+	Recall				: 0.9165
+
+recall_efs_k Test 42
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 16	ef_search = 20
+	Construction time	: 10834961534ms
+	Search time			: 176076360ms
+	Recall				: 0.8285
+
+recall_efs_k Test 43
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 16	ef_search = 20
+	Construction time	: 8153021857ms
+	Search time			: 85031345ms
+	Recall				: 0.973
+
+recall_efs_k Test 44
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 16	ef_search = 20
+	Construction time	: 10884399700ms
+	Search time			: 108173413ms
+	Recall				: 0.918
+
+recall_efs_k Test 45
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 16	ef_search = 20
+	Construction time	: 15690408094ms
+	Search time			: 174206223ms
+	Recall				: 0.8315
+
+recall_efs_k Test 46
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 32	ef_search = 20
+	Construction time	: 2570468707ms
+	Search time			: 79104076ms
+	Recall				: 0.9905
+
+recall_efs_k Test 47
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 32	ef_search = 20
+	Construction time	: 3771838540ms
+	Search time			: 115010177ms
+	Recall				: 0.966
+
+recall_efs_k Test 48
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 32	ef_search = 20
+	Construction time	: 6434459626ms
+	Search time			: 178959445ms
+	Recall				: 0.9105
+
+recall_efs_k Test 49
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 32	ef_search = 20
+	Construction time	: 4788670363ms
+	Search time			: 75445155ms
+	Recall				: 0.997
+
+recall_efs_k Test 50
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 32	ef_search = 20
+	Construction time	: 6830027315ms
+	Search time			: 113385459ms
+	Recall				: 0.979
+
+recall_efs_k Test 51
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 32	ef_search = 20
+	Construction time	: 10660372788ms
+	Search time			: 182170048ms
+	Recall				: 0.943
+
+recall_efs_k Test 52
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 32	ef_search = 20
+	Construction time	: 8748319624ms
+	Search time			: 76880992ms
+	Recall				: 0.997
+
+recall_efs_k Test 53
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 32	ef_search = 20
+	Construction time	: 11655728386ms
+	Search time			: 113977743ms
+	Recall				: 0.9795
+
+recall_efs_k Test 54
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 32	ef_search = 20
+	Construction time	: 16845930183ms
+	Search time			: 179498028ms
+	Recall				: 0.945
+
+recall_efs_k Test 55
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 64	ef_search = 20
+	Construction time	: 3311036431ms
+	Search time			: 81080972ms
+	Recall				: 0.9955
+
+recall_efs_k Test 56
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 64	ef_search = 20
+	Construction time	: 4609060433ms
+	Search time			: 113737586ms
+	Recall				: 0.9845
+
+recall_efs_k Test 57
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 64	ef_search = 20
+	Construction time	: 6817387697ms
+	Search time			: 186748523ms
+	Recall				: 0.9605
+
+recall_efs_k Test 58
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 64	ef_search = 20
+	Construction time	: 4808132644ms
+	Search time			: 77607787ms
+	Recall				: 0.998
+
+recall_efs_k Test 59
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 64	ef_search = 20
+	Construction time	: 6997570827ms
+	Search time			: 114225545ms
+	Recall				: 0.9905
+
+recall_efs_k Test 60
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 64	ef_search = 20
+	Construction time	: 10469400514ms
+	Search time			: 193443312ms
+	Recall				: 0.9785
+
+recall_efs_k Test 61
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 64	ef_search = 20
+	Construction time	: 8700722958ms
+	Search time			: 78276253ms
+	Recall				: 0.999
+
+recall_efs_k Test 62
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 64	ef_search = 20
+	Construction time	: 12238595634ms
+	Search time			: 124886668ms
+	Recall				: 0.994
+
+recall_efs_k Test 63
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 64	ef_search = 20
+	Construction time	: 17096940066ms
+	Search time			: 186130912ms
+	Recall				: 0.984
+
+recall_efs_k Test 64
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 128	ef_search = 20
+	Construction time	: 6168872634ms
+	Search time			: 79097183ms
+	Recall				: 0.9995
+
+recall_efs_k Test 65
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 128	ef_search = 20
+	Construction time	: 8601909585ms
+	Search time			: 119510256ms
+	Recall				: 0.9975
+
+recall_efs_k Test 66
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 128	ef_search = 20
+	Construction time	: 12670411607ms
+	Search time			: 192417591ms
+	Recall				: 0.986
+
+recall_efs_k Test 67
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 128	ef_search = 20
+	Construction time	: 6344579923ms
+	Search time			: 79597095ms
+	Recall				: 0.9995
+
+recall_efs_k Test 68
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 128	ef_search = 20
+	Construction time	: 8639242816ms
+	Search time			: 119592449ms
+	Recall				: 0.9975
+
+recall_efs_k Test 69
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 128	ef_search = 20
+	Construction time	: 12741671080ms
+	Search time			: 189519819ms
+	Recall				: 0.986
+
+recall_efs_k Test 70
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 128	ef_search = 20
+	Construction time	: 9151996345ms
+	Search time			: 83550106ms
+	Recall				: 1
+
+recall_efs_k Test 71
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 128	ef_search = 20
+	Construction time	: 12538697215ms
+	Search time			: 116444792ms
+	Recall				: 1
+
+recall_efs_k Test 72
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 128	ef_search = 20
+	Construction time	: 18184725445ms
+	Search time			: 200676596ms
+	Recall				: 0.996
+
+recall_efs_k Test 73
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 16	ef_search = 40
+	Construction time	: 2631008590ms
+	Search time			: 109647451ms
+	Recall				: 0.9785
+
+recall_efs_k Test 74
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 16	ef_search = 40
+	Construction time	: 4182323338ms
+	Search time			: 154295879ms
+	Recall				: 0.90575
+
+recall_efs_k Test 75
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 16	ef_search = 40
+	Construction time	: 7665255247ms
+	Search time			: 228878656ms
+	Recall				: 0.79325
+
+recall_efs_k Test 76
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 16	ef_search = 40
+	Construction time	: 4610993369ms
+	Search time			: 110990925ms
+	Recall				: 0.9795
+
+recall_efs_k Test 77
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 16	ef_search = 40
+	Construction time	: 6586360522ms
+	Search time			: 149456709ms
+	Recall				: 0.913
+
+recall_efs_k Test 78
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 16	ef_search = 40
+	Construction time	: 10752332611ms
+	Search time			: 222284295ms
+	Recall				: 0.8305
+
+recall_efs_k Test 79
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 16	ef_search = 40
+	Construction time	: 8097578313ms
+	Search time			: 110447492ms
+	Recall				: 0.98
+
+recall_efs_k Test 80
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 16	ef_search = 40
+	Construction time	: 10667016853ms
+	Search time			: 156670415ms
+	Recall				: 0.91625
+
+recall_efs_k Test 81
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 16	ef_search = 40
+	Construction time	: 15625985814ms
+	Search time			: 227311887ms
+	Recall				: 0.83825
+
+recall_efs_k Test 82
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 32	ef_search = 40
+	Construction time	: 2507038433ms
+	Search time			: 112624690ms
+	Recall				: 0.99075
+
+recall_efs_k Test 83
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 32	ef_search = 40
+	Construction time	: 3853681633ms
+	Search time			: 163063981ms
+	Recall				: 0.966
+
+recall_efs_k Test 84
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 32	ef_search = 40
+	Construction time	: 6613678955ms
+	Search time			: 255302052ms
+	Recall				: 0.9125
+
+recall_efs_k Test 85
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 32	ef_search = 40
+	Construction time	: 4917094495ms
+	Search time			: 111898267ms
+	Recall				: 0.996
+
+recall_efs_k Test 86
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 32	ef_search = 40
+	Construction time	: 6574173925ms
+	Search time			: 148675162ms
+	Recall				: 0.9795
+
+recall_efs_k Test 87
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 32	ef_search = 40
+	Construction time	: 10542999886ms
+	Search time			: 222663131ms
+	Recall				: 0.935
+
+recall_efs_k Test 88
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 32	ef_search = 40
+	Construction time	: 8454741204ms
+	Search time			: 113206636ms
+	Recall				: 0.99725
+
+recall_efs_k Test 89
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 32	ef_search = 40
+	Construction time	: 11407675318ms
+	Search time			: 150378927ms
+	Recall				: 0.97825
+
+recall_efs_k Test 90
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 32	ef_search = 40
+	Construction time	: 16303560134ms
+	Search time			: 221166742ms
+	Recall				: 0.93575
+
+recall_efs_k Test 91
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 64	ef_search = 40
+	Construction time	: 3176107554ms
+	Search time			: 114127993ms
+	Recall				: 0.9945
+
+recall_efs_k Test 92
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 64	ef_search = 40
+	Construction time	: 4458887650ms
+	Search time			: 150197269ms
+	Recall				: 0.985
+
+recall_efs_k Test 93
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 64	ef_search = 40
+	Construction time	: 6610941691ms
+	Search time			: 228013364ms
+	Recall				: 0.95525
+
+recall_efs_k Test 94
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 64	ef_search = 40
+	Construction time	: 4657210111ms
+	Search time			: 113221724ms
+	Recall				: 0.99775
+
+recall_efs_k Test 95
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 64	ef_search = 40
+	Construction time	: 6620303574ms
+	Search time			: 154786854ms
+	Recall				: 0.9905
+
+recall_efs_k Test 96
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 64	ef_search = 40
+	Construction time	: 9731898685ms
+	Search time			: 228952755ms
+	Recall				: 0.9765
+
+recall_efs_k Test 97
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 64	ef_search = 40
+	Construction time	: 8474565185ms
+	Search time			: 112870809ms
+	Recall				: 0.9985
+
+recall_efs_k Test 98
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 64	ef_search = 40
+	Construction time	: 11594371621ms
+	Search time			: 154605476ms
+	Recall				: 0.99375
+
+recall_efs_k Test 99
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 64	ef_search = 40
+	Construction time	: 16346509106ms
+	Search time			: 233920164ms
+	Recall				: 0.98425
+
+recall_efs_k Test 100
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 128	ef_search = 40
+	Construction time	: 5950285129ms
+	Search time			: 114107495ms
+	Recall				: 0.9995
+
+recall_efs_k Test 101
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 128	ef_search = 40
+	Construction time	: 8247187799ms
+	Search time			: 160949051ms
+	Recall				: 0.99625
+
+recall_efs_k Test 102
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 128	ef_search = 40
+	Construction time	: 11933777080ms
+	Search time			: 239668119ms
+	Recall				: 0.98525
+
+recall_efs_k Test 103
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 128	ef_search = 40
+	Construction time	: 5986847718ms
+	Search time			: 116001015ms
+	Recall				: 0.9995
+
+recall_efs_k Test 104
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 128	ef_search = 40
+	Construction time	: 8271464551ms
+	Search time			: 155763014ms
+	Recall				: 0.99625
+
+recall_efs_k Test 105
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 128	ef_search = 40
+	Construction time	: 11889308609ms
+	Search time			: 242552204ms
+	Recall				: 0.98525
+
+recall_efs_k Test 106
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 128	ef_search = 40
+	Construction time	: 8694891643ms
+	Search time			: 116835470ms
+	Recall				: 1
+
+recall_efs_k Test 107
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 128	ef_search = 40
+	Construction time	: 11781160160ms
+	Search time			: 157466129ms
+	Recall				: 0.99875
+
+recall_efs_k Test 108
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 128	ef_search = 40
+	Construction time	: 16608333472ms
+	Search time			: 240328400ms
+	Recall				: 0.9935
+
+recall_efs_k Test 109
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 16	ef_search = 80
+	Construction time	: 2543841963ms
+	Search time			: 227207773ms
+	Recall				: 0.9885
+
+recall_efs_k Test 110
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 16	ef_search = 80
+	Construction time	: 4117951602ms
+	Search time			: 281644768ms
+	Recall				: 0.9315
+
+recall_efs_k Test 111
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 16	ef_search = 80
+	Construction time	: 7261518039ms
+	Search time			: 378698453ms
+	Recall				: 0.830625
+
+recall_efs_k Test 112
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 16	ef_search = 80
+	Construction time	: 4424306440ms
+	Search time			: 228586553ms
+	Recall				: 0.989625
+
+recall_efs_k Test 113
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 16	ef_search = 80
+	Construction time	: 6483845546ms
+	Search time			: 279351352ms
+	Recall				: 0.93675
+
+recall_efs_k Test 114
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 16	ef_search = 80
+	Construction time	: 10495248524ms
+	Search time			: 361466381ms
+	Recall				: 0.846625
+
+recall_efs_k Test 115
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 16	ef_search = 80
+	Construction time	: 7910938014ms
+	Search time			: 227642934ms
+	Recall				: 0.989875
+
+recall_efs_k Test 116
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 16	ef_search = 80
+	Construction time	: 10421953453ms
+	Search time			: 274220838ms
+	Recall				: 0.939875
+
+recall_efs_k Test 117
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 16	ef_search = 80
+	Construction time	: 15255402953ms
+	Search time			: 361617038ms
+	Recall				: 0.851625
+
+recall_efs_k Test 118
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 32	ef_search = 80
+	Construction time	: 2511443884ms
+	Search time			: 230444987ms
+	Recall				: 0.99425
+
+recall_efs_k Test 119
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 32	ef_search = 80
+	Construction time	: 3604791693ms
+	Search time			: 279991405ms
+	Recall				: 0.973625
+
+recall_efs_k Test 120
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 32	ef_search = 80
+	Construction time	: 6236286765ms
+	Search time			: 377024104ms
+	Recall				: 0.939875
+
+recall_efs_k Test 121
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 32	ef_search = 80
+	Construction time	: 5130256454ms
+	Search time			: 265719100ms
+	Recall				: 0.997625
+
+recall_efs_k Test 122
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 32	ef_search = 80
+	Construction time	: 7208542306ms
+	Search time			: 340217528ms
+	Recall				: 0.98475
+
+recall_efs_k Test 123
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 32	ef_search = 80
+	Construction time	: 11095145837ms
+	Search time			: 364997803ms
+	Recall				: 0.95675
+
+recall_efs_k Test 124
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 32	ef_search = 80
+	Construction time	: 9291809169ms
+	Search time			: 236348522ms
+	Recall				: 0.9985
+
+recall_efs_k Test 125
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 32	ef_search = 80
+	Construction time	: 11878281631ms
+	Search time			: 287123320ms
+	Recall				: 0.9875
+
+recall_efs_k Test 126
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 32	ef_search = 80
+	Construction time	: 16439917267ms
+	Search time			: 359994106ms
+	Recall				: 0.96025
+
+recall_efs_k Test 127
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 64	ef_search = 80
+	Construction time	: 3228106640ms
+	Search time			: 231871737ms
+	Recall				: 0.99625
+
+recall_efs_k Test 128
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 64	ef_search = 80
+	Construction time	: 4521334398ms
+	Search time			: 295431085ms
+	Recall				: 0.988625
+
+recall_efs_k Test 129
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 64	ef_search = 80
+	Construction time	: 6649647463ms
+	Search time			: 369620390ms
+	Recall				: 0.972625
+
+recall_efs_k Test 130
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 64	ef_search = 80
+	Construction time	: 4655282700ms
+	Search time			: 238341727ms
+	Recall				: 0.998375
+
+recall_efs_k Test 131
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 64	ef_search = 80
+	Construction time	: 6732189575ms
+	Search time			: 282866985ms
+	Recall				: 0.994375
+
+recall_efs_k Test 132
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 64	ef_search = 80
+	Construction time	: 9885112505ms
+	Search time			: 372407426ms
+	Recall				: 0.984875
+
+recall_efs_k Test 133
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 64	ef_search = 80
+	Construction time	: 8596154419ms
+	Search time			: 238687001ms
+	Recall				: 0.9995
+
+recall_efs_k Test 134
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 64	ef_search = 80
+	Construction time	: 12076895803ms
+	Search time			: 282115234ms
+	Recall				: 0.9975
+
+recall_efs_k Test 135
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 64	ef_search = 80
+	Construction time	: 16944735436ms
+	Search time			: 422695987ms
+	Recall				: 0.992125
+
+recall_efs_k Test 136
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 128	ef_search = 80
+	Construction time	: 6323477134ms
+	Search time			: 239852714ms
+	Recall				: 0.999375
+
+recall_efs_k Test 137
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 128	ef_search = 80
+	Construction time	: 8341184510ms
+	Search time			: 281809855ms
+	Recall				: 0.997125
+
+recall_efs_k Test 138
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 128	ef_search = 80
+	Construction time	: 12307887907ms
+	Search time			: 381592858ms
+	Recall				: 0.9915
+
+recall_efs_k Test 139
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 128	ef_search = 80
+	Construction time	: 6203710266ms
+	Search time			: 272033010ms
+	Recall				: 0.999375
+
+recall_efs_k Test 140
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 128	ef_search = 80
+	Construction time	: 8675624924ms
+	Search time			: 298872361ms
+	Recall				: 0.997125
+
+recall_efs_k Test 141
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 128	ef_search = 80
+	Construction time	: 11990527676ms
+	Search time			: 376666955ms
+	Recall				: 0.9915
+
+recall_efs_k Test 142
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 128	ef_search = 80
+	Construction time	: 8757005889ms
+	Search time			: 244444804ms
+	Recall				: 0.999875
+
+recall_efs_k Test 143
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 128	ef_search = 80
+	Construction time	: 11963733489ms
+	Search time			: 297134041ms
+	Recall				: 0.9995
+
+recall_efs_k Test 144
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 128	ef_search = 80
+	Construction time	: 17333320114ms
+	Search time			: 391334006ms
+	Recall				: 0.99525
+

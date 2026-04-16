@@ -1,0 +1,6 @@
+recall_efs_1 Test 1
+	dim = 16	 max_elements = 10000	M = 16	ef_construction = 200
+	Elapsed time : 8756100189ms
+recall_efs_k Test 2
+	dim = 16	 max_elements = 10000	M = 16	ef_construction = 200
+	Elapsed time : 8279318923ms

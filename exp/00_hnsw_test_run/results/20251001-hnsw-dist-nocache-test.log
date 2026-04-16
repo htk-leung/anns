@@ -1,0 +1,5 @@
+recall_efs_k Test 1
+	max_elements = 1000	dim = 128	ef_construction = 200	M = 128	ef_search = 100	k = 100
+	Dist func call constr	: 1059231
+	Dist func call search	: 95552
+

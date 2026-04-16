@@ -1,0 +1,864 @@
+flatnav random data Test 1
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 16	ef_search = 10	k = 10
+	Construction time	: 254284367ms
+	Search time			: 613694ms
+	Recall				: 0.927
+
+flatnav random data Test 2
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 16	ef_search = 10	k = 10
+	Construction time	: 320849808ms
+	Search time			: 792117ms
+	Recall				: 0.703
+
+flatnav random data Test 3
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 16	ef_search = 10	k = 10
+	Construction time	: 401338270ms
+	Search time			: 857378ms
+	Recall				: 0.526
+
+flatnav random data Test 4
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 16	ef_search = 10	k = 10
+	Construction time	: 455260118ms
+	Search time			: 608325ms
+	Recall				: 0.933
+
+flatnav random data Test 5
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 16	ef_search = 10	k = 10
+	Construction time	: 563426455ms
+	Search time			: 780355ms
+	Recall				: 0.809
+
+flatnav random data Test 6
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 16	ef_search = 10	k = 10
+	Construction time	: 661185148ms
+	Search time			: 913974ms
+	Recall				: 0.616
+
+flatnav random data Test 7
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 16	ef_search = 10	k = 10
+	Construction time	: 815451043ms
+	Search time			: 602624ms
+	Recall				: 0.929
+
+flatnav random data Test 8
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 16	ef_search = 10	k = 10
+	Construction time	: 985096544ms
+	Search time			: 721084ms
+	Recall				: 0.826
+
+flatnav random data Test 9
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 16	ef_search = 10	k = 10
+	Construction time	: 1173130326ms
+	Search time			: 898485ms
+	Recall				: 0.66
+
+flatnav random data Test 10
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 32	ef_search = 10	k = 10
+	Construction time	: 313856089ms
+	Search time			: 746212ms
+	Recall				: 0.981
+
+flatnav random data Test 11
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 32	ef_search = 10	k = 10
+	Construction time	: 435692945ms
+	Search time			: 950712ms
+	Recall				: 0.913
+
+flatnav random data Test 12
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 32	ef_search = 10	k = 10
+	Construction time	: 641137816ms
+	Search time			: 1238209ms
+	Recall				: 0.796
+
+flatnav random data Test 13
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 32	ef_search = 10	k = 10
+	Construction time	: 579440013ms
+	Search time			: 813917ms
+	Recall				: 0.984
+
+flatnav random data Test 14
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 32	ef_search = 10	k = 10
+	Construction time	: 738078396ms
+	Search time			: 983474ms
+	Recall				: 0.938
+
+flatnav random data Test 15
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 32	ef_search = 10	k = 10
+	Construction time	: 1015024165ms
+	Search time			: 1237547ms
+	Recall				: 0.873
+
+flatnav random data Test 16
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 32	ef_search = 10	k = 10
+	Construction time	: 1044843732ms
+	Search time			: 986570ms
+	Recall				: 0.985
+
+flatnav random data Test 17
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 32	ef_search = 10	k = 10
+	Construction time	: 1295649143ms
+	Search time			: 935725ms
+	Recall				: 0.946
+
+flatnav random data Test 18
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 32	ef_search = 10	k = 10
+	Construction time	: 1622779561ms
+	Search time			: 1202372ms
+	Recall				: 0.904
+
+flatnav random data Test 19
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 64	ef_search = 10	k = 10
+	Construction time	: 353903397ms
+	Search time			: 862508ms
+	Recall				: 0.993
+
+flatnav random data Test 20
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 64	ef_search = 10	k = 10
+	Construction time	: 470176179ms
+	Search time			: 1083160ms
+	Recall				: 0.956
+
+flatnav random data Test 21
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 64	ef_search = 10	k = 10
+	Construction time	: 673784910ms
+	Search time			: 1692355ms
+	Recall				: 0.877
+
+flatnav random data Test 22
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 64	ef_search = 10	k = 10
+	Construction time	: 668977697ms
+	Search time			: 1132641ms
+	Recall				: 0.996
+
+flatnav random data Test 23
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 64	ef_search = 10	k = 10
+	Construction time	: 903976176ms
+	Search time			: 1208343ms
+	Recall				: 0.985
+
+flatnav random data Test 24
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 64	ef_search = 10	k = 10
+	Construction time	: 1236618069ms
+	Search time			: 1669944ms
+	Recall				: 0.961
+
+flatnav random data Test 25
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 64	ef_search = 10	k = 10
+	Construction time	: 1240925771ms
+	Search time			: 948077ms
+	Recall				: 0.996
+
+flatnav random data Test 26
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 64	ef_search = 10	k = 10
+	Construction time	: 1583079791ms
+	Search time			: 1260330ms
+	Recall				: 0.983
+
+flatnav random data Test 27
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 64	ef_search = 10	k = 10
+	Construction time	: 2049455873ms
+	Search time			: 1721510ms
+	Recall				: 0.971
+
+flatnav random data Test 28
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 128	ef_search = 10	k = 10
+	Construction time	: 555627745ms
+	Search time			: 1439624ms
+	Recall				: 0.999
+
+flatnav random data Test 29
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 128	ef_search = 10	k = 10
+	Construction time	: 702337516ms
+	Search time			: 1823019ms
+	Recall				: 0.993
+
+flatnav random data Test 30
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 128	ef_search = 10	k = 10
+	Construction time	: 1097180386ms
+	Search time			: 2398953ms
+	Recall				: 0.974
+
+flatnav random data Test 31
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 128	ef_search = 10	k = 10
+	Construction time	: 778158636ms
+	Search time			: 1082929ms
+	Recall				: 0.997
+
+flatnav random data Test 32
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 128	ef_search = 10	k = 10
+	Construction time	: 1013706537ms
+	Search time			: 1479859ms
+	Recall				: 0.992
+
+flatnav random data Test 33
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 128	ef_search = 10	k = 10
+	Construction time	: 1339014869ms
+	Search time			: 2068748ms
+	Recall				: 0.984
+
+flatnav random data Test 34
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 128	ef_search = 10	k = 10
+	Construction time	: 1441790616ms
+	Search time			: 1108627ms
+	Recall				: 0.997
+
+flatnav random data Test 35
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 128	ef_search = 10	k = 10
+	Construction time	: 1832049537ms
+	Search time			: 1492472ms
+	Recall				: 0.996
+
+flatnav random data Test 36
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 128	ef_search = 10	k = 10
+	Construction time	: 2356263290ms
+	Search time			: 2194562ms
+	Recall				: 0.993
+
+flatnav random data Test 37
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 16	ef_search = 20	k = 20
+	Construction time	: 254737231ms
+	Search time			: 1020983ms
+	Recall				: 0.905
+
+flatnav random data Test 38
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 16	ef_search = 20	k = 20
+	Construction time	: 324498461ms
+	Search time			: 1237558ms
+	Recall				: 0.7085
+
+flatnav random data Test 39
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 16	ef_search = 20	k = 20
+	Construction time	: 394380357ms
+	Search time			: 1478286ms
+	Recall				: 0.54
+
+flatnav random data Test 40
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 16	ef_search = 20	k = 20
+	Construction time	: 450035096ms
+	Search time			: 1022146ms
+	Recall				: 0.91
+
+flatnav random data Test 41
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 16	ef_search = 20	k = 20
+	Construction time	: 555881779ms
+	Search time			: 1219374ms
+	Recall				: 0.76
+
+flatnav random data Test 42
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 16	ef_search = 20	k = 20
+	Construction time	: 669583025ms
+	Search time			: 1479759ms
+	Recall				: 0.6155
+
+flatnav random data Test 43
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 16	ef_search = 20	k = 20
+	Construction time	: 824038579ms
+	Search time			: 1049908ms
+	Recall				: 0.909
+
+flatnav random data Test 44
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 16	ef_search = 20	k = 20
+	Construction time	: 992215820ms
+	Search time			: 1183386ms
+	Recall				: 0.767
+
+flatnav random data Test 45
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 16	ef_search = 20	k = 20
+	Construction time	: 1157829836ms
+	Search time			: 1468017ms
+	Recall				: 0.665
+
+flatnav random data Test 46
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 32	ef_search = 20	k = 20
+	Construction time	: 317641567ms
+	Search time			: 1280318ms
+	Recall				: 0.9785
+
+flatnav random data Test 47
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 32	ef_search = 20	k = 20
+	Construction time	: 434455578ms
+	Search time			: 1530364ms
+	Recall				: 0.8905
+
+flatnav random data Test 48
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 32	ef_search = 20	k = 20
+	Construction time	: 622689372ms
+	Search time			: 1960816ms
+	Recall				: 0.757
+
+flatnav random data Test 49
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 32	ef_search = 20	k = 20
+	Construction time	: 582786743ms
+	Search time			: 1280477ms
+	Recall				: 0.978
+
+flatnav random data Test 50
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 32	ef_search = 20	k = 20
+	Construction time	: 759521717ms
+	Search time			: 1558886ms
+	Recall				: 0.908
+
+flatnav random data Test 51
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 32	ef_search = 20	k = 20
+	Construction time	: 1019706085ms
+	Search time			: 1982807ms
+	Recall				: 0.8365
+
+flatnav random data Test 52
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 32	ef_search = 20	k = 20
+	Construction time	: 1038208262ms
+	Search time			: 1310774ms
+	Recall				: 0.9775
+
+flatnav random data Test 53
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 32	ef_search = 20	k = 20
+	Construction time	: 1271766212ms
+	Search time			: 1578343ms
+	Recall				: 0.917
+
+flatnav random data Test 54
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 32	ef_search = 20	k = 20
+	Construction time	: 1652696883ms
+	Search time			: 2155870ms
+	Recall				: 0.854
+
+flatnav random data Test 55
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 64	ef_search = 20	k = 20
+	Construction time	: 351094690ms
+	Search time			: 1497722ms
+	Recall				: 0.993
+
+flatnav random data Test 56
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 64	ef_search = 20	k = 20
+	Construction time	: 469348335ms
+	Search time			: 1958552ms
+	Recall				: 0.9475
+
+flatnav random data Test 57
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 64	ef_search = 20	k = 20
+	Construction time	: 692237896ms
+	Search time			: 2698622ms
+	Recall				: 0.863
+
+flatnav random data Test 58
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 64	ef_search = 20	k = 20
+	Construction time	: 681195377ms
+	Search time			: 1629588ms
+	Recall				: 0.9965
+
+flatnav random data Test 59
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 64	ef_search = 20	k = 20
+	Construction time	: 889807256ms
+	Search time			: 2098533ms
+	Recall				: 0.977
+
+flatnav random data Test 60
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 64	ef_search = 20	k = 20
+	Construction time	: 1217285022ms
+	Search time			: 2737073ms
+	Recall				: 0.933
+
+flatnav random data Test 61
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 64	ef_search = 20	k = 20
+	Construction time	: 1248462682ms
+	Search time			: 1655387ms
+	Recall				: 0.997
+
+flatnav random data Test 62
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 64	ef_search = 20	k = 20
+	Construction time	: 1584805590ms
+	Search time			: 2151622ms
+	Recall				: 0.976
+
+flatnav random data Test 63
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 64	ef_search = 20	k = 20
+	Construction time	: 2029828239ms
+	Search time			: 2807956ms
+	Recall				: 0.942
+
+flatnav random data Test 64
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 128	ef_search = 20	k = 20
+	Construction time	: 561247373ms
+	Search time			: 2575843ms
+	Recall				: 0.999
+
+flatnav random data Test 65
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 128	ef_search = 20	k = 20
+	Construction time	: 713872604ms
+	Search time			: 3219192ms
+	Recall				: 0.9945
+
+flatnav random data Test 66
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 128	ef_search = 20	k = 20
+	Construction time	: 1129144322ms
+	Search time			: 4224205ms
+	Recall				: 0.964
+
+flatnav random data Test 67
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 128	ef_search = 20	k = 20
+	Construction time	: 805399888ms
+	Search time			: 1795648ms
+	Recall				: 0.9975
+
+flatnav random data Test 68
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 128	ef_search = 20	k = 20
+	Construction time	: 1001898051ms
+	Search time			: 2503117ms
+	Recall				: 0.9875
+
+flatnav random data Test 69
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 128	ef_search = 20	k = 20
+	Construction time	: 1331709018ms
+	Search time			: 3515074ms
+	Recall				: 0.966
+
+flatnav random data Test 70
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 128	ef_search = 20	k = 20
+	Construction time	: 1445750729ms
+	Search time			: 1870608ms
+	Recall				: 0.998
+
+flatnav random data Test 71
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 128	ef_search = 20	k = 20
+	Construction time	: 1827559838ms
+	Search time			: 2623021ms
+	Recall				: 0.993
+
+flatnav random data Test 72
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 128	ef_search = 20	k = 20
+	Construction time	: 2330788462ms
+	Search time			: 3844839ms
+	Recall				: 0.9815
+
+flatnav random data Test 73
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 16	ef_search = 40	k = 40
+	Construction time	: 254226177ms
+	Search time			: 1821767ms
+	Recall				: 0.907
+
+flatnav random data Test 74
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 16	ef_search = 40	k = 40
+	Construction time	: 320547916ms
+	Search time			: 2153736ms
+	Recall				: 0.704
+
+flatnav random data Test 75
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 16	ef_search = 40	k = 40
+	Construction time	: 406348081ms
+	Search time			: 2640002ms
+	Recall				: 0.55475
+
+flatnav random data Test 76
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 16	ef_search = 40	k = 40
+	Construction time	: 453851937ms
+	Search time			: 1813371ms
+	Recall				: 0.91375
+
+flatnav random data Test 77
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 16	ef_search = 40	k = 40
+	Construction time	: 553112434ms
+	Search time			: 2159796ms
+	Recall				: 0.73925
+
+flatnav random data Test 78
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 16	ef_search = 40	k = 40
+	Construction time	: 666465452ms
+	Search time			: 2672442ms
+	Recall				: 0.603
+
+flatnav random data Test 79
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 16	ef_search = 40	k = 40
+	Construction time	: 823908056ms
+	Search time			: 1834160ms
+	Recall				: 0.913
+
+flatnav random data Test 80
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 16	ef_search = 40	k = 40
+	Construction time	: 989238688ms
+	Search time			: 2170928ms
+	Recall				: 0.7495
+
+flatnav random data Test 81
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 16	ef_search = 40	k = 40
+	Construction time	: 1161428056ms
+	Search time			: 2645653ms
+	Recall				: 0.61925
+
+flatnav random data Test 82
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 32	ef_search = 40	k = 40
+	Construction time	: 312094373ms
+	Search time			: 2258762ms
+	Recall				: 0.9785
+
+flatnav random data Test 83
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 32	ef_search = 40	k = 40
+	Construction time	: 428724842ms
+	Search time			: 2755898ms
+	Recall				: 0.89375
+
+flatnav random data Test 84
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 32	ef_search = 40	k = 40
+	Construction time	: 637778233ms
+	Search time			: 3510115ms
+	Recall				: 0.7655
+
+flatnav random data Test 85
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 32	ef_search = 40	k = 40
+	Construction time	: 577140696ms
+	Search time			: 2307563ms
+	Recall				: 0.97925
+
+flatnav random data Test 86
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 32	ef_search = 40	k = 40
+	Construction time	: 753719484ms
+	Search time			: 2832250ms
+	Recall				: 0.914
+
+flatnav random data Test 87
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 32	ef_search = 40	k = 40
+	Construction time	: 1019769244ms
+	Search time			: 3613527ms
+	Recall				: 0.8195
+
+flatnav random data Test 88
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 32	ef_search = 40	k = 40
+	Construction time	: 1044369349ms
+	Search time			: 2305358ms
+	Recall				: 0.98025
+
+flatnav random data Test 89
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 32	ef_search = 40	k = 40
+	Construction time	: 1276966188ms
+	Search time			: 2797545ms
+	Recall				: 0.9175
+
+flatnav random data Test 90
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 32	ef_search = 40	k = 40
+	Construction time	: 1647337881ms
+	Search time			: 3689649ms
+	Recall				: 0.828
+
+flatnav random data Test 91
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 64	ef_search = 40	k = 40
+	Construction time	: 358568405ms
+	Search time			: 2671691ms
+	Recall				: 0.99125
+
+flatnav random data Test 92
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 64	ef_search = 40	k = 40
+	Construction time	: 472259664ms
+	Search time			: 3514213ms
+	Recall				: 0.949
+
+flatnav random data Test 93
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 64	ef_search = 40	k = 40
+	Construction time	: 672125596ms
+	Search time			: 5818037ms
+	Recall				: 0.87
+
+flatnav random data Test 94
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 64	ef_search = 40	k = 40
+	Construction time	: 679405349ms
+	Search time			: 2925564ms
+	Recall				: 0.99575
+
+flatnav random data Test 95
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 64	ef_search = 40	k = 40
+	Construction time	: 881961437ms
+	Search time			: 3770521ms
+	Recall				: 0.97875
+
+flatnav random data Test 96
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 64	ef_search = 40	k = 40
+	Construction time	: 1219683364ms
+	Search time			: 4964387ms
+	Recall				: 0.93325
+
+flatnav random data Test 97
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 64	ef_search = 40	k = 40
+	Construction time	: 1261531929ms
+	Search time			: 2900368ms
+	Recall				: 0.998
+
+flatnav random data Test 98
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 64	ef_search = 40	k = 40
+	Construction time	: 1589485245ms
+	Search time			: 3903368ms
+	Recall				: 0.98225
+
+flatnav random data Test 99
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 64	ef_search = 40	k = 40
+	Construction time	: 2029942563ms
+	Search time			: 4971439ms
+	Recall				: 0.93775
+
+flatnav random data Test 100
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 128	ef_search = 40	k = 40
+	Construction time	: 555936350ms
+	Search time			: 4401396ms
+	Recall				: 1
+
+flatnav random data Test 101
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 128	ef_search = 40	k = 40
+	Construction time	: 725590412ms
+	Search time			: 5596124ms
+	Recall				: 0.99525
+
+flatnav random data Test 102
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 128	ef_search = 40	k = 40
+	Construction time	: 1145448302ms
+	Search time			: 8664916ms
+	Recall				: 0.9695
+
+flatnav random data Test 103
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 128	ef_search = 40	k = 40
+	Construction time	: 772721358ms
+	Search time			: 3324479ms
+	Recall				: 0.99625
+
+flatnav random data Test 104
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 128	ef_search = 40	k = 40
+	Construction time	: 992729385ms
+	Search time			: 4571324ms
+	Recall				: 0.98675
+
+flatnav random data Test 105
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 128	ef_search = 40	k = 40
+	Construction time	: 1331179049ms
+	Search time			: 6359598ms
+	Recall				: 0.96625
+
+flatnav random data Test 106
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 128	ef_search = 40	k = 40
+	Construction time	: 1458997698ms
+	Search time			: 3440966ms
+	Recall				: 0.9985
+
+flatnav random data Test 107
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 128	ef_search = 40	k = 40
+	Construction time	: 1827180838ms
+	Search time			: 4819176ms
+	Recall				: 0.993
+
+flatnav random data Test 108
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 128	ef_search = 40	k = 40
+	Construction time	: 2309435334ms
+	Search time			: 8044790ms
+	Recall				: 0.9805
+
+flatnav random data Test 109
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 16	ef_search = 80	k = 80
+	Construction time	: 258757767ms
+	Search time			: 3513421ms
+	Recall				: 0.930125
+
+flatnav random data Test 110
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 16	ef_search = 80	k = 80
+	Construction time	: 323892062ms
+	Search time			: 4184201ms
+	Recall				: 0.7565
+
+flatnav random data Test 111
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 16	ef_search = 80	k = 80
+	Construction time	: 401438936ms
+	Search time			: 5023927ms
+	Recall				: 0.596875
+
+flatnav random data Test 112
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 16	ef_search = 80	k = 80
+	Construction time	: 456645503ms
+	Search time			: 3463999ms
+	Recall				: 0.934
+
+flatnav random data Test 113
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 16	ef_search = 80	k = 80
+	Construction time	: 554653318ms
+	Search time			: 4191745ms
+	Recall				: 0.7795
+
+flatnav random data Test 114
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 16	ef_search = 80	k = 80
+	Construction time	: 663056697ms
+	Search time			: 5074461ms
+	Recall				: 0.6305
+
+flatnav random data Test 115
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 16	ef_search = 80	k = 80
+	Construction time	: 821944383ms
+	Search time			: 3481040ms
+	Recall				: 0.934125
+
+flatnav random data Test 116
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 16	ef_search = 80	k = 80
+	Construction time	: 986812568ms
+	Search time			: 4291371ms
+	Recall				: 0.7865
+
+flatnav random data Test 117
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 16	ef_search = 80	k = 80
+	Construction time	: 1164049875ms
+	Search time			: 5015472ms
+	Recall				: 0.643375
+
+flatnav random data Test 118
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 32	ef_search = 80	k = 80
+	Construction time	: 318093249ms
+	Search time			: 4317901ms
+	Recall				: 0.9865
+
+flatnav random data Test 119
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 32	ef_search = 80	k = 80
+	Construction time	: 447748283ms
+	Search time			: 5315581ms
+	Recall				: 0.92075
+
+flatnav random data Test 120
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 32	ef_search = 80	k = 80
+	Construction time	: 635974572ms
+	Search time			: 6672812ms
+	Recall				: 0.812375
+
+flatnav random data Test 121
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 32	ef_search = 80	k = 80
+	Construction time	: 572058930ms
+	Search time			: 4350451ms
+	Recall				: 0.989
+
+flatnav random data Test 122
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 32	ef_search = 80	k = 80
+	Construction time	: 748232047ms
+	Search time			: 5413053ms
+	Recall				: 0.938125
+
+flatnav random data Test 123
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 32	ef_search = 80	k = 80
+	Construction time	: 998939755ms
+	Search time			: 6783688ms
+	Recall				: 0.841125
+
+flatnav random data Test 124
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 32	ef_search = 80	k = 80
+	Construction time	: 1039661762ms
+	Search time			: 4360751ms
+	Recall				: 0.98925
+
+flatnav random data Test 125
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 32	ef_search = 80	k = 80
+	Construction time	: 1291064264ms
+	Search time			: 5415197ms
+	Recall				: 0.94125
+
+flatnav random data Test 126
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 32	ef_search = 80	k = 80
+	Construction time	: 1648185770ms
+	Search time			: 6847708ms
+	Recall				: 0.847875
+
+flatnav random data Test 127
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 64	ef_search = 80	k = 80
+	Construction time	: 363783198ms
+	Search time			: 5032703ms
+	Recall				: 0.994125
+
+flatnav random data Test 128
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 64	ef_search = 80	k = 80
+	Construction time	: 475547334ms
+	Search time			: 6695534ms
+	Recall				: 0.971
+
+flatnav random data Test 129
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 64	ef_search = 80	k = 80
+	Construction time	: 675639628ms
+	Search time			: 8592852ms
+	Recall				: 0.907625
+
+flatnav random data Test 130
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 64	ef_search = 80	k = 80
+	Construction time	: 671116645ms
+	Search time			: 5445262ms
+	Recall				: 0.997875
+
+flatnav random data Test 131
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 64	ef_search = 80	k = 80
+	Construction time	: 903908698ms
+	Search time			: 7079670ms
+	Recall				: 0.98575
+
+flatnav random data Test 132
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 64	ef_search = 80	k = 80
+	Construction time	: 1264518201ms
+	Search time			: 9128581ms
+	Recall				: 0.955625
+
+flatnav random data Test 133
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 64	ef_search = 80	k = 80
+	Construction time	: 1252273649ms
+	Search time			: 5564375ms
+	Recall				: 0.998625
+
+flatnav random data Test 134
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 64	ef_search = 80	k = 80
+	Construction time	: 1581133752ms
+	Search time			: 7199143ms
+	Recall				: 0.988625
+
+flatnav random data Test 135
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 64	ef_search = 80	k = 80
+	Construction time	: 2054104612ms
+	Search time			: 9249195ms
+	Recall				: 0.962125
+
+flatnav random data Test 136
+	 max_elements = 10000	dim = 16	ef_construction = 50	M = 128	ef_search = 80	k = 80
+	Construction time	: 565680145ms
+	Search time			: 7622553ms
+	Recall				: 0.99975
+
+flatnav random data Test 137
+	 max_elements = 10000	dim = 32	ef_construction = 50	M = 128	ef_search = 80	k = 80
+	Construction time	: 709345213ms
+	Search time			: 9821091ms
+	Recall				: 0.9985
+
+flatnav random data Test 138
+	 max_elements = 10000	dim = 64	ef_construction = 50	M = 128	ef_search = 80	k = 80
+	Construction time	: 1125049108ms
+	Search time			: 13162912ms
+	Recall				: 0.98575
+
+flatnav random data Test 139
+	 max_elements = 10000	dim = 16	ef_construction = 100	M = 128	ef_search = 80	k = 80
+	Construction time	: 781136639ms
+	Search time			: 6355921ms
+	Recall				: 0.99825
+
+flatnav random data Test 140
+	 max_elements = 10000	dim = 32	ef_construction = 100	M = 128	ef_search = 80	k = 80
+	Construction time	: 1011880663ms
+	Search time			: 8496452ms
+	Recall				: 0.99225
+
+flatnav random data Test 141
+	 max_elements = 10000	dim = 64	ef_construction = 100	M = 128	ef_search = 80	k = 80
+	Construction time	: 1354102562ms
+	Search time			: 11669207ms
+	Recall				: 0.9785
+
+flatnav random data Test 142
+	 max_elements = 10000	dim = 16	ef_construction = 200	M = 128	ef_search = 80	k = 80
+	Construction time	: 1442037546ms
+	Search time			: 6320385ms
+	Recall				: 0.99925
+
+flatnav random data Test 143
+	 max_elements = 10000	dim = 32	ef_construction = 200	M = 128	ef_search = 80	k = 80
+	Construction time	: 1838519711ms
+	Search time			: 12924107ms
+	Recall				: 0.996375
+
+flatnav random data Test 144
+	 max_elements = 10000	dim = 64	ef_construction = 200	M = 128	ef_search = 80	k = 80
+	Construction time	: 2347310989ms
+	Search time			: 12467186ms
+	Recall				: 0.988625
+

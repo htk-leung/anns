@@ -1,0 +1,3 @@
+       d,     efc,       m,     efs,       k,    lp50,    lp99,    lave,        dp50,        dp99,        dave,    hp50,    hp99,    have,    rp50,    rp99,    rave
+       4,       4,       4,    2000,     100,    0.32,    0.44,    0.33,     7798.00,    10983.83,     7999.73, 1007.00, 1435.20, 1039.97,    0.98,    1.00,    0.95 // haven't fixed over-estimation in searchbaselayerST
+       4,       4,       4,    2000,     100,    0.33,    0.45,    0.33,     2530.50,     3346.37,     2579.95, 1007.00, 1435.20, 1039.97,    0.98,    1.00,    0.95 // fixed >> dist count should be correct here!

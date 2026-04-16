@@ -1,0 +1,8 @@
+recall_data_k Test 1
+	 max_elements = 1000000	dim = 128	ef_construction = 50	M = 16	ef_search = 100	k = 100
+	Construction time	: 620572114326ms
+	Search time			: 10071498401ms
+	Recall				: 0.875561
+
+recall_data_k Test 2
+	 max_elements = 1000000	dim = 128	ef_construction = 100	M = 16	ef_search = 100	k = 100
